@@ -4,10 +4,6 @@
 ![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Concurrency](https://img.shields.io/badge/Concurrency-Pthreads-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-A multithreaded simulation in C that models and analyzes vehicle flow at a gas station with multiple pumps and a central waiting queue. This project demonstrates advanced handling of concurrency, thread synchronization, and shared resource management to create a robust and efficient system.
-
----
-
 ### 🎬 Demo
 
 <img width="975" height="480" alt="imagen" src="https://github.com/user-attachments/assets/6b4c9d3f-348e-4b00-8de1-e983ec9aa528" />
